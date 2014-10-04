@@ -1,7 +1,7 @@
 Mind Sight Test!
 ===============
 
-Mind Sight Test is a program that was created by Anthony Clemens using python and pygame. It is used to make shure that people can use the Mind Sight effectivly and understand what is on the screen. 
+Mind Sight Test is a program that was created by Anthony Clemens using python and pygame. It is used to make sure that people can use the Mind Sight effectivly and understand what is on the screen.
 
 ===============
     Copyright © 2014  MicroTeknic
