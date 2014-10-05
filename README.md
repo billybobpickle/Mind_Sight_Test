@@ -4,7 +4,7 @@ Mind Sight Test!
 Mind Sight Test is a program that was created by Anthony Clemens using python and pygame. It is used to make sure that people can use the Mind Sight effectivly and understand what is on the screen.
 
 ===============
-    Copyright © 2014  MicroTeknic
+    Copyright © October 2014 MicroTeknic
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
